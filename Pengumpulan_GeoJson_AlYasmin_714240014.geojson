@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vokasi",
+                "category": "Gedung Utama"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            107.5772,
+                            -6.8753
+                        ],
+                        [
+                            107.5775,
+                            -6.8761
+                        ],
+                        [
+                            107.5789,
+                            -6.8756
+                        ],
+                        [
+                            107.5786,
+                            -6.8748
+                        ],
+                        [
+                            107.5772,
+                            -6.8753
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asrama Gandaria",
+                "category": "Fasilitas Asrama",
+                "fill": "rgba(97, 10, 4, 1)"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            107.576,
+                            -6.875
+                        ],
+                        [
+                            107.5762,
+                            -6.8756
+                        ],
+                        [
+                            107.5772,
+                            -6.8753
+                        ],
+                        [
+                            107.577,
+                            -6.8747
+                        ],
+                        [
+                            107.576,
+                            -6.875
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Auditorium",
+                "category": "Gedung Pertemuan"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            107.578,
+                            -6.8764
+                        ],
+                        [
+                            107.5783,
+                            -6.8772
+                        ],
+                        [
+                            107.5797,
+                            -6.8768
+                        ],
+                        [
+                            107.5794,
+                            -6.876
+                        ],
+                        [
+                            107.578,
+                            -6.8764
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Logic Coffee",
+                "category": "Tempat Kopi\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.579,
+                    -6.8762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kantin",
+                "category": "Tempat makan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5782,
+                    -6.8761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gedung FLTB",
+                "category": "Gedung Perkuliahan"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            107.5748,
+                            -6.8765
+                        ],
+                        [
+                            107.5751,
+                            -6.8772
+                        ],
+                        [
+                            107.5763,
+                            -6.8768
+                        ],
+                        [
+                            107.576,
+                            -6.8761
+                        ],
+                        [
+                            107.5748,
+                            -6.8765
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UKM",
+                "category": "Fasilitas Mahasiswa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5746,
+                    -6.8768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lapangan Tenis",
+                "category": "Outdoor",
+                "fill": "rgba(114, 184, 129, 1)"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            107.575,
+                            -6.8756
+                        ],
+                        [
+                            107.5752,
+                            -6.8762
+                        ],
+                        [
+                            107.5761,
+                            -6.8759
+                        ],
+                        [
+                            107.5759,
+                            -6.8753
+                        ],
+                        [
+                            107.575,
+                            -6.8756
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rektorat",
+                "category": "Akses Utama"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.576749,
+                        -6.875412
+                    ],
+                    [
+                        107.5776,
+                        -6.8758
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parkir",
+                "category": "Area Parkir"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5778,
+                    -6.8765
+                ]
+            }
+        }
+    ]
+}
